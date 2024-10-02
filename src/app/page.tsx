@@ -50,19 +50,6 @@ export default function Page() {
           </Markdown>
         </BlurFade>
       </section>
-      <section>
-      <div>
-      <h1 className="text-4xl md:text-4xl lg:text-6xl font-semibold max-w-7xl mx-auto text-center mt-6 relative z-20 py-6 bg-clip-text text-transparent bg-gradient-to-b from-neutral-800 via-neutral-700 to-neutral-700 dark:from-neutral-800 dark:via-white dark:to-white">
-        This is AI Driven Portfolio<br /> 
-        <Cover>
-          <a href="/terminal">
-          Chat with me
-          </a>
-          
-        </Cover>
-      </h1>
-    </div>
-      </section>
       <section id="work">
         <div className="flex min-h-0 flex-col gap-y-3">
           <BlurFade delay={BLUR_FADE_DELAY * 5}>
