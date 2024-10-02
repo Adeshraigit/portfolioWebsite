@@ -4,9 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Adesh Rai",
   initials: "AR",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  url: "https://adesh-rai.vercel.app",
+  location: "Mumbai",
+  locationLink: "",
   description:
     " I am a skilled web developer and a Diploma in Computer Engineering student, passionate about building innovative web solutions.",
   summary:
