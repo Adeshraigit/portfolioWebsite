@@ -67,7 +67,7 @@ export const DATA = {
   work: [
     {
       company: "Elight Labs",
-      href: "https://elightlabs.com/",
+      href: "https://elightlabs.com",
       badges: [],
       location: "Remote",
       title: "Frontend Devloper",
