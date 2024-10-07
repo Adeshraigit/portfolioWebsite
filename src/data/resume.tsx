@@ -72,7 +72,7 @@ export const DATA = {
       location: "Remote",
       title: "Frontend Devloper",
       logoUrl: "/Elight.png",
-      start: "June 2022",
+      start: "June 2024",
       end: "July 2024",
       description:
         "Worked On Various Projects",
