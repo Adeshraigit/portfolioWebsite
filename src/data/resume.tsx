@@ -77,12 +77,24 @@ export const DATA = {
       description:
         "Worked On Various Projects",
     },
+    {
+      company: "Nighwan Technologies PVT. LTD.",
+      href: "https://nighwantech.com/",
+      badges: [],
+      location: "Remote",
+      title: "Software Devloper Intern",
+      logoUrl: "/Nighwan.png",
+      start: "October 2024",
+      // end: "April 2024",
+      description:
+        "Working On Various Projects",
+    },
     
   ],
   education: [
     {
       school: "V.B.M Model High School",
-      href: "https://buildspace.so",
+      href: "",
       degree: "10th SSC",
       logoUrl: "/VBM.png",
       start: "2012",
@@ -122,6 +134,30 @@ export const DATA = {
         },
       ],
       image: "/chat.png",
+      video:
+        "",
+    },
+    {
+      title: "Product-Store",
+      href: "https://product-store-jeot.onrender.com",
+      dates: "",
+      active: true,
+      description:
+        "A Product Store built with MERN Stack.",
+      technologies: [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+      ],
+      links: [
+        {
+          type: "Github",
+          href: "https://github.com/Adeshraigit/Product-Store",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      // image: "/chat.png",
       video:
         "",
     },
