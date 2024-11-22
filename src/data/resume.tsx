@@ -85,7 +85,7 @@ export const DATA = {
       title: "Software Devloper Intern",
       logoUrl: "/Nighwan.png",
       start: "October 2024",
-      // end: "April 2024",
+      end: "April 2025",
       description:
         "Working On Various Projects",
     },
